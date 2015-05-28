@@ -4,7 +4,11 @@
 		module="graphx-samples_2.10"
 		revision="0.1-SNAPSHOT"
 		status="integration"
+<<<<<<< HEAD
 		publication="20150528172602"
+=======
+		publication="20141101130144"
+>>>>>>> 7f9e668bec2b16b644259e4cb4e7284a20e1dd12
 	>
 		<description>
 		graphx-samples
